@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Vipul, a software engineer exploring different applications in ML
+I'm Vipul, a software engineer exploring different applications in ML and Deep Learning.
 
 Check out my most recent project on NBA Shot Modeling!
 
