@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I'm Vipul, a software engineer exploring different applications in ML and Deep Learning.
-
-Check out my most recent project on NBA Shot Modeling!
+I'm Vipul, a software engineer exploring different applications in AI
 
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-green?style=flat)
